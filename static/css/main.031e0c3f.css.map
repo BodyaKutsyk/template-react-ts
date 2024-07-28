@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.031e0c3f.css","mappings":"AAAA,KACE,yBAIA,YAEE,cADA,sBACA","sources":["App.scss"],"sourcesContent":["body {\n  background-color: #c9d5da;\n}\n\n.App {\n  &__title {\n    font-family: sans-serif;\n    color: rgb(130, 67, 239);\n  }\n}"],"names":[],"sourceRoot":""}
